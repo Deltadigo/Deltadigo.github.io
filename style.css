@@ -23,6 +23,9 @@ p {
     padding: 16px;
     margin: 16px;
 }
+#listahabilidades li.impar {
+    background-color: antiquewhite;
+}
 #links a {
     padding: 8px;
     margin: 16px 0;
